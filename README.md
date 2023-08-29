@@ -12,7 +12,7 @@
 ### informations d'aide
 
 ```
-msfvenom --aide
+msfvenom --help
 MsfVenom - un générateur de charge utile autonome Metasploit.
 Également un remplacement pour msfpayload et msfencode.
 Utilisation : /usr/bin/msfvenom [options] <var=val>
